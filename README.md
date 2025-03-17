@@ -1,16 +1,20 @@
-## Hi there 👋
+🚀 Software Engineer | Open-Source Contributor
 
-<!--
-**pedrokohler/pedrokohler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer with expertise in JavaScript, React and Node.js, specializing in medical imaging and SaaS development. As a top contributor to OHIF/Viewers and Cornerstone3D, I actively shape open-source tools that power advanced DICOM and imaging solutions used by research institutions and healthcare organizations worldwide.
 
-Here are some ideas to get you started:
+🔹 Core Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Medical Imaging: Contributing to OHIF/Viewers and Cornerstone3D
+Full-Stack Development: JavaScript, TypeScript, React, Node.js
+Cloud & DevOps: Docker, Kubernetes, AWS, GCP
+Testing & Performance: Jest, RTL, E2E optimization
+Mobile Development: React Native, Expo
+
+👨‍💻 Current Projects & Ventures
+
+Radical Imaging LLC: Developing innovative imaging solutions for research and healthcare.
+BuscaPonta (Co-founder): Building an Android/iOS marketplace for agriculture.
+
+🌍 Languages: Portuguese (Native) | English, Spanish (Full Pro) | German (Working)
+
+📌 Let’s Connect! Open to collaborations in open-source, medical imaging, and other innovative projects.
