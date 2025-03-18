@@ -1,6 +1,6 @@
 🚀 Software Engineer | Open-Source Contributor
 
-I'm a passionate Software Engineer with expertise in JavaScript, React and Node.js, specializing in medical imaging and SaaS development. 
+I'm a passionate Software Engineer with expertise in JavaScript, React and Node.js, specializing in medical imaging development. 
 
 As a top contributor to OHIF/Viewers and Cornerstone3D, I actively shape open-source tools that power advanced DICOM and imaging solutions used by research institutions and healthcare organizations worldwide.
 
