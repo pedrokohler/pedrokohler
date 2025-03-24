@@ -18,5 +18,3 @@ As a top contributor to [OHIF](https://github.com/OHIF/Viewers), [Cornerstone3D]
 * BuscaPonta (Co-founder): Building an Android/iOS marketplace for agriculture.
 
 🌍 Languages: Portuguese (Native) | English, Spanish (Full Pro) | German (Working)
-
-📌 Let’s Connect! Open to collaborations in open-source, medical imaging, and other innovative projects.
